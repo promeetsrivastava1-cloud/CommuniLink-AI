@@ -16,6 +16,12 @@ The objective was to design a practical AI-powered solution for a real-world pro
 
 - Python
 - Streamlit
+  
+## 🎥 Project Demo
+
+Watch a short demonstration of CommuniLink AI in action.
+
+<video src="https://github.com/user-attachments/assets/72ec8df0-a9dc-4bf4-b094-94f5aae46787" width="100%" controls></video>
 
 ## Project Purpose
 
