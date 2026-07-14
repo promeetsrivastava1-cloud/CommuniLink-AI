@@ -1,6 +1,9 @@
 # 🏡 CommuniLink AI
 
-CommuniLink AI is a Streamlit-based prototype created during the **Gen AI Academy APAC Edition Hackathon**.
+![Project](https://img.shields.io/badge/Project-Learning%20Prototype-blue)
+![Built With](https://img.shields.io/badge/Built%20With-Streamlit-FF4B4B?logo=streamlit)
+
+A Streamlit-based community assistant prototype created during the Gen AI Academy APAC Edition Hackathon.
 
 The objective was to design a practical AI-powered solution for a real-world problem. My team chose to build a community assistant that helps residents draft notices, organize neighborhood activities, and report civic issues.
 
